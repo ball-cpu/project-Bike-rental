@@ -152,4 +152,4 @@ axes[2].legend(title="Humidity Category")
 plt.tight_layout()
 st.pyplot(fig)
 
-st.caption("Copyright 2024 ©️Ball-cpu")
+st.caption("Copyright 2024 ©️ 2024 Ball-cpu")
