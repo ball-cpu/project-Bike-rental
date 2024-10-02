@@ -20,6 +20,7 @@ pip install numpy pandas scipy matplotlib seaborn streamlit babel
 
 ## Run Streamlit App  
 ```bash
+cd dashboard
 streamlit run dashboard.py
 ```
 
